@@ -1,0 +1,22 @@
+{
+        "cliente_n1" : {
+            "nome" : "Carlos",
+            "idade" : 19,
+            "local" : "Manaus",
+            "caixa" : 20
+        },
+
+        "cliente_n2" : {
+            "nome" : "Vinicius",
+            "idade" : 19,
+            "local" : "Iranduba",
+            "caixa" : 200
+        },
+
+        "cliente_n3" : {
+            "nome" : "Souza",
+            "idade" : 19,
+            "local" : "Maúes",
+            "caixa" : 200
+        } 
+}
